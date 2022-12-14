@@ -19,10 +19,10 @@ function correction(){
   console.log(`Sum of characters ASCII in array "names" ${sum}`);
   for (let n=0; n < names.length; n++) {
     if (sum < 5000){
-        let name = names[i];
+        let name = names[n];
         speakGoodBye(name);
       } else if (sum > 1000) {
-          let name = names[i];
+          let name = names[n];
           speakHello(name);
       }
   }

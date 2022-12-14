@@ -18,7 +18,7 @@ function correction(){
   }
   console.log(`Sum of characters ASCII in array "names" ${sum}`);
   for (let n=0; n < names.length; n++) {
-    if (sum < 5000 && names[n][-1] == 'n'){
+    if (sum < 5000 && names[n].slice(-1) == 'n'){
         let name = names[n];
         speakGoodBye(name);
       }

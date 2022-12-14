@@ -84,6 +84,6 @@ function triangle(value_1, type_1, value_2, type_2) {
             return 'Zero or negative input';
         }
     }   // result
-        return `a = ${a}\nb = ${b}\nc = ${c}\nalpha = ${alpha}\nbeta = ${beta}\n"success"`;
+        return console.log(`a = ${a}\nb = ${b}\nc = ${c}\nalpha = ${alpha}\nbeta = ${beta}\n"success"`);
 }
-console.log(triangle(7, 'leg', 18, 'hypotenuse'));
+triangle(7, 'leg', 18, 'hypotenuse');

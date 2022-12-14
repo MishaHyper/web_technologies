@@ -21,7 +21,7 @@ function correction(){
     if (sum < 5000){
         let name = names[n];
         speakGoodBye(name);
-      } else if (sum > 1000) {
+      }if (sum > 1000) {
           let name = names[n];
           speakHello(name);
       }

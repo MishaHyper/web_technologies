@@ -17,13 +17,14 @@ function correction(){
     }
   }
   console.log(`Sum of characters ASCII in array "names" ${sum}`);
-  if (sum > 1000){
-      let name = names[0];
-      speakHello(name);
-    }
-  else if(sum < 5000){
-      let name = names[1];
-      speakGoodBye(name);
+  for (let n=0; n < names.length; n++) {
+    if (sum < 5000){
+        let name = names[i];
+        speakGoodBye(name);
+      } else if (sum > 1000) {
+          let name = names[i];
+          speakHello(name);
+      }
   }
 }
 correction();

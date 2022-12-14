@@ -3,7 +3,7 @@ function correction(){
   let sum = 0;
   for (let i=0; i < names.length; i++) {
       if (names[i][0] == 'J' || names[i][0] == 'j') {
-            let name = 'J' + names[i];
+            let name = names[i];
             speakGoodBye(name);
       } else {
             let name = names[i];

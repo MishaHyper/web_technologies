@@ -1,0 +1,54 @@
+{
+    "catalog_items":[
+        {
+            "id":21,
+            "short_name":"C1",
+            "name":"item1",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "price_retail":null,
+            "price_wholesale":90,
+            "amount_retail":null,
+            "amount_wholesale":""
+        },
+        {
+            "id":22,
+            "short_name":"C2",
+            "name":"item2",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "price_retail":80,
+            "price_wholesale":70,
+            "amount_retail":"",
+            "amount_wholesale":""
+        },
+        {
+            "id":23,
+            "short_name":"C3",
+            "name":"item3",
+            "description":"Lorem ipsum dolor sit amet, elit, sed do eiusmod tempor incididunt ut labore.",
+            "price_retail":60,
+            "price_wholesale":50,
+            "amount_retail":"",
+            "amount_wholesale":""
+        },
+        {
+            "id":24,
+            "short_name":"C4",
+            "name":"item4",
+            "description":"Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt.",
+            "price_retail":40,
+            "price_wholesale":30,
+            "amount_retail":"",
+            "amount_wholesale":""
+        },
+        {
+            "id":25,
+            "short_name":"C5",
+            "name":"item5",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "price_retail":20,
+            "price_wholesale":10,
+            "amount_retail":"",
+            "amount_wholesale":""
+        }
+    ]
+}

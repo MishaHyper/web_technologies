@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "short_name":"A",
+        "name":"Category1",
+        "special_instruction":"info 1",
+        "url":"data/catalog/A.json"
+    },
+    {
+        "id": 2,
+        "short_name":"B",
+        "name":"Category2",
+        "special_instruction":"info 2",
+        "url":"data/catalog/B.json"
+    },
+    {
+        "id": 3,
+        "short_name":"C",
+        "name":"Category3",
+        "special_instruction":"info 3",
+        "url":"data/catalog/C.json"
+    },
+    {
+        "id": 4,
+        "short_name":"D",
+        "name":"Category4",
+        "special_instruction":"info 4",
+        "url":"data/catalog/D.json"
+    }
+]

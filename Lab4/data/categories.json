@@ -13,18 +13,4 @@
         "special_instruction":"Important info 2",
         "url":"data/catalog/B.json"
     },
-    {
-        "id": 3,
-        "short_name":"C",
-        "name":"Category-3",
-        "special_instruction":"Important info 3",
-        "url":"data/catalog/C.json"
-    },
-    {
-        "id": 4,
-        "short_name":"D",
-        "name":"Category-4",
-        "special_instruction":"Important info 4",
-        "url":"data/catalog/D.json"
-    }
 ]

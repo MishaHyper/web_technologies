@@ -7,8 +7,8 @@
             "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
             "price_retail":1,
             "price_wholesale":2,
-            "amount_retail":"3+ pos",
-            "amount_wholesale":"4+ pos"
+            "amount_retail":"",
+            "amount_wholesale":""
         },
         {
             "id":17,
@@ -17,8 +17,8 @@
             "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
             "price_retail":5,
             "price_wholesale":6,
-            "amount_retail":"7+ pos",
-            "amount_wholesale":"8+ pos"
+            "amount_retail":"",
+            "amount_wholesale":""
         },
         {
             "id":18,
@@ -27,7 +27,7 @@
             "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
             "price_retail":9,
             "price_wholesale":null,
-            "amount_retail":"1+ pos",
+            "amount_retail":"",
             "amount_wholesale":null
         },
         {
@@ -37,8 +37,8 @@
             "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
             "price_retail":2,
             "price_wholesale":3,
-            "amount_retail":"4+ pos",
-            "amount_wholesale":"5+ pos"
+            "amount_retail":"",
+            "amount_wholesale":""
         },
         {
             "id":20,
@@ -47,8 +47,8 @@
             "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
             "price_retail":6,
             "price_wholesale":7,
-            "amount_retail":"8+ pos",
-            "amount_wholesale":"9+ pos"
+            "amount_retail":"",
+            "amount_wholesale":""
         }
     ]
 }

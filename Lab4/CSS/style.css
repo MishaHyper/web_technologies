@@ -1,5 +1,4 @@
 .container {
-    background-color: #d3c359;
     height: 100%;
     width: 100%;
     display: flex;
@@ -14,11 +13,9 @@
     position: relative;
     z-index: 1;
     height: 20%;
-    background-color: #d3c359;
 }
 
 .title { 
-    background-color: #d3c359;
     font-family: 'Oswald', sans-serif;
     text-align: center;
     font-size: 7vw;

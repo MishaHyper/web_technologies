@@ -55,6 +55,5 @@ function loadCatalogs(categoryShortName, link) {
           $(catalogs).appendTo($(".container"))
         });
       }
-    })
-    
-};
+    });   
+}

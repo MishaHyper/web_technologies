@@ -3,7 +3,7 @@
 		"id":1,
 		"short_name":"A",
 		"name":"Category-A",
-		"notes":"1",
+		"notes":"",
 		"url":"data/catalog/A.json"
 
 	},
@@ -19,7 +19,7 @@
 		"id":3,
 		"short_name":"C",
 		"name":"Category-C",
-		"notes":"Info3",
+		"notes":"",
 		"url":"data/catalog/C.json"
 
 	},
@@ -27,7 +27,7 @@
 		"id":4,
 		"short_name":"D",
 		"name":"Category-D",
-		"notes":"Info4",
+		"notes":"",
 		"url":"data/catalog/D.json"
 
 	}

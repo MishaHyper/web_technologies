@@ -3,6 +3,7 @@
 		"id":1,
 		"short_name":"A",
 		"name":"Category-A",
+		"notes":"",
 		"url":"data/catalog/A.json"
 
 	},

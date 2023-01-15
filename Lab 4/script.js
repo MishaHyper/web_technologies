@@ -16,6 +16,18 @@ function loadCategories() {
         $(categories).find(".category-short_name").html(shortName);
         $(categories).find(".category-name").html(name);
         $(categories).find(".category-instruction").html(instruction);
+        if (item.id==5){
+         var tempid =  Math.floor(Math.random()*(item.id-1)+1);
+          $.each(result, function(index, item){
+           if(item.id == tempid){
+             var url = item.url;
+             var shortName = item.short_name;
+             $(categories).find(".category-img").on("click", function() {
+               loadCatalogs(shortName, url);
+             });
+           }
+          });
+        }
         $(categories).find(".category-img").on("click", function() {
           loadCatalogs(shortName, url);
         });
